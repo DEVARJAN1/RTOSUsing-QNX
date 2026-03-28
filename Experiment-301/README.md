@@ -233,10 +233,12 @@ MsgSend return status: 0
 
 # Output
 ### Server Side
-![Program Output](<Screenshot 2026-03-16 190426.png>)
+<img width="337" height="112" alt="image" src="https://github.com/user-attachments/assets/9aca91c4-6683-4605-a247-15029319c21a" />
+
 
 ### Client Side
-![Program Output](<Screenshot 2026-03-16 190409.png>)
+<img width="1008" height="125" alt="image" src="https://github.com/user-attachments/assets/e1d736bb-76f7-46a8-b7e9-b6ad6fbe2a24" />
+
 ---
 
 # Result
