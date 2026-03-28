@@ -28,6 +28,7 @@ State 1 → State 3 (if internal variable is odd)
 State 2 → State 0
 State 3 → State 0
 ```
+<img width="211" height="171" alt="image" src="https://github.com/user-attachments/assets/67141142-065d-48a6-9c47-99ebcde635de" />
 
 Each state is handled by a **separate thread**, and threads synchronize using **mutex locks and condition variables**.
 
@@ -249,7 +250,8 @@ main, exiting
 ---
 
 # Output
-![Program Output](image.png)
+<img width="1004" height="412" alt="image" src="https://github.com/user-attachments/assets/cc0b2492-be9a-4ff8-b1e0-0e383d2803cc" />
+
 ---
 
 # Result
