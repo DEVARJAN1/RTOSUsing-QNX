@@ -102,7 +102,8 @@ Interrupt received! , Count is 4
 *(The counter increases each time the interrupt occurs.)*
 
 # Output
-![Program Output](image.png)
+<img width="517" height="496" alt="image" src="https://github.com/user-attachments/assets/9318ed2c-2743-4cb2-81c5-0dc2860e462a" />
+
 ---
 
 # Result
